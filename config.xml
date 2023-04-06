@@ -1,0 +1,8 @@
+Listen 192.168.1.13:12345
+
+<logical_host>
+  <name>192.168.1.6</name>
+  <port>13579</port>
+  <conns>5</conns>
+</logical_host>
+
